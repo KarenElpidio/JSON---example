@@ -1,0 +1,37 @@
+{
+"name": "Tito",
+"lastname": "Roque",
+"aga": 20, 
+"nickname": "Tito123", 
+"hobbies": [
+    "correr",
+    "codear",
+    "comer"
+],
+
+"address": {
+    "street": "lolo 123",
+    "city": "Buenos Aires"
+},
+
+"merried": false,
+"friends": [
+    {
+        "name": "Blanco",
+        "nickname": "Blanco123" 
+    }, 
+    {
+        "name": "Negro",
+        "nickname": "Negro123" 
+    }, 
+    {
+        "name": "Lilo",
+        "nickname": "Lilo123" 
+    }, 
+    {
+        "name": "Samuel",
+        "nickname": "Samuel123" 
+    }
+]
+
+}
